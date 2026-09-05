@@ -168,32 +168,5 @@ Configured as a **drill-through page** so users can right-click a data point on 
 - **Power Query (M)** — data cleaning and transformation
 - **DAX** — measures, KPIs, time intelligence
 
----
 
-## 🚀 How to Use
-1. Clone this repository.
-2. Open `Finance Analysis Dashboard.pbix` in Power BI Desktop.
-3. If prompted, update the data source connection to point to the CSVs (`customers__1_.csv`, `finance_transactions.csv`) in this repo.
-4. Click **Refresh** to load the latest data.
-5. Use the **Year**, **Dynamic Metric**, **Occupation**, and **Category** slicers on the Overview Analysis page to explore the data.
-6. Right-click any chart element and choose **Drill through → Transaction** to view detailed records.
 
----
-
-## 📷 Screenshots
-
-| Overview Analysis | Transaction Detail |
-|---|---|
-| *(add screenshot path here)* | *(add screenshot path here)* |
-
-| Data Model View |
-|---|
-| *(add screenshot path here)* |
-
----
-
-## 📄 License
-Specify your license here (e.g., MIT).
-
-## 🙋 Author
-Add your name / LinkedIn / portfolio link here.
