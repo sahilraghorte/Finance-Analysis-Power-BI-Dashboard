@@ -2,8 +2,6 @@
 
 An end-to-end **Power BI** project that transforms raw banking/transaction data into an interactive finance analytics dashboard — covering data cleaning, data modeling, DAX measures (including Year-over-Year comparisons), dynamic field parameters, and drill-through navigation.
 
-![Status](https://img.shields.io/badge/Power%20BI-Report-yellow) ![Status](https://img.shields.io/badge/Pages-2-blue) ![Status](https://img.shields.io/badge/Model-Star%20Schema-green)
-
 ---
 
 ## 📌 Project Overview
